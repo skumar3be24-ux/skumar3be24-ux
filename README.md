@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Sourabh Kumar — VLSI, FPGA, and hardware design" width="100%" />
+  <img src="assets/header-live.gif" alt="Sourabh Kumar — VLSI, FPGA, and hardware design" width="100%" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 <p align="center"><strong>VLSI &amp; hardware design student</strong><br/>Verilog · FPGA (Vivado) · ESP32 · Systolic arrays · AI acceleration</p>
 
-<p align="center"><img src="assets/signal-flow.svg" alt="Animated digital signal waveform" width="100%" /></p>
+<p align="center"><img src="assets/wave-about.png" alt="Clock pulse transitioning into an analog signal" width="100%" /></p>
 
 <p align="center"><img src="https://img.shields.io/badge/01-ABOUT-10251c?style=for-the-badge" alt="01 About" /></p>
 
@@ -34,7 +34,7 @@ TOOLKIT     Verilog · SystemVerilog · VHDL · Vivado · Python · C++
   <img src="https://img.shields.io/badge/OPENCV-153b2a?style=for-the-badge&logo=opencv&logoColor=40ed96" alt="OpenCV" />
 </p>
 
-<p align="center"><img src="assets/signal-flow.svg" alt="Animated digital signal waveform" width="100%" /></p>
+<p align="center"><img src="assets/wave-projects.png" alt="Differential bus data waveform" width="100%" /></p>
 
 <p align="center"><img src="https://img.shields.io/badge/03-SELECTED%20PROJECTS-10251c?style=for-the-badge" alt="03 Selected projects" /></p>
 
@@ -45,7 +45,7 @@ TOOLKIT     Verilog · SystemVerilog · VHDL · Vivado · Python · C++
 | [ESP32 Wireless Buggy](https://github.com/skumar3be24-ux/esp32-wireless-buggy-control) | Browser-based wireless control with live speed adjustment | C++ · ESP32 · WebSockets |
 | [Hand Gesture Recognition](https://github.com/skumar3be24-ux/hand-gesture-recognition) | Real-time hand gesture recognition using a webcam | Python · OpenCV · MediaPipe |
 
-<p align="center"><img src="assets/signal-flow.svg" alt="Animated digital signal waveform" width="100%" /></p>
+<p align="center"><img src="assets/wave-connect.png" alt="Serial data pulses on a connected signal line" width="100%" /></p>
 
 <p align="center"><img src="https://img.shields.io/badge/04-LET'S%20CONNECT-10251c?style=for-the-badge" alt="04 Let's connect" /></p>
 
@@ -55,3 +55,7 @@ TOOLKIT     Verilog · SystemVerilog · VHDL · Vivado · Python · C++
 </p>
 
 <p align="center"><sub>Designing hardware one signal at a time.</sub></p>
+
+
+
+
